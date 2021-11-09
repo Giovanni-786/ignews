@@ -61,12 +61,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Faça um clone desse repositório: 
 `git clone https://github.com/Giovanni-786/ignews.git`
 
-- Instale as dependências: `yarn`
+- Instale as dependências: `yarn install`
+- Inserir as variáveis de ambiente no arquivo .env
 - Inicie a aplicação:
     - Rode o comando de inicialização: `yarn dev`
-    - Inicalize a API: `yarn server`
 
-- Inserir as variáveis de ambiente no arquivo .env
+
 <a id="como-contribuir"></a>
 
 ## :recycle: Como contribuir
