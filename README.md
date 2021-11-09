@@ -45,7 +45,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [ReactJS](https://reactjs.org/)
 - [NextJs] (https://nextjs.org/)
 - [FaunaDB] (https://fauna.com/)
-- [PrismicCMS] (prismic.io/)
+- [PrismicCMS] (https://prismic.io/)
 
 
 <a id="pre-requisitos"></a>
