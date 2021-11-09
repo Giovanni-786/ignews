@@ -59,7 +59,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :zap: Como usar
 
 - Faça um clone desse repositório: 
-`git clone https://github.com/Giovanni-786/WatchMe.git`
+`git clone https://github.com/Giovanni-786/ignews.git`
 
 - Instale as dependências: `yarn`
 - Inicie a aplicação:
