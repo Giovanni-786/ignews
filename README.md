@@ -43,9 +43,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
-- [NextJs] (https://nextjs.org/)
-- [FaunaDB] (https://fauna.com/)
-- [PrismicCMS] (https://prismic.io/)
+- [NextJs](https://nextjs.org/)
+- [FaunaDB](https://fauna.com/)
+- [PrismicCMS](https://prismic.io/)
 
 
 <a id="pre-requisitos"></a>
